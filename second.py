@@ -5,3 +5,6 @@ def add_numbers(num1, num2):
 
 # function with no argument
 def add_numbers():
+
+    # function call with two values
+add_numbers(5, 4)
