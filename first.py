@@ -5,3 +5,5 @@ def function_name(arguments):
 
 def greet():
     print('Hello World!')
+# call the function
+greet()
